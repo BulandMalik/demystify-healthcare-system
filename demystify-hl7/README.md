@@ -5,4 +5,3 @@ Below are few links that I captured by going through different set of videos so 
 
 1. [HL7 Basic Info](./hl7-basic-info.md)
 2. [Demystify HL7](./demystify_hl7.md)
-
