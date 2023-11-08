@@ -3,6 +3,23 @@
 ## Different Systems Involved
 ![](./images/hc_systems.png)
 
+## General Termonologies
+1. `PM` - Practice management
+2. `EHR` - Electronic Health Record
+3. `HIS` - Health Information System (PM + EHR Modules)
+4. `LIS` - Lab Information System
+5. `ICD` - International Classification of Disease
+   1. Library of codes that telss what type of disease patient has
+   2. ICD-9 & ICD-10
+6. `CPT` - Current Procedural Terminology
+   1. Every disnossis code should have a course of treatment (medicine, injection etc.), those procedual plan identified by some codes referred as CPT codes
+7. `CCD` - Continuity of Care Document
+8. `HIE` - Health Information Exchnage
+9. `IHE` - Integrating Health Enterprise
+
+## In Patient Workflow
+![](./images/in_patient_workflow.png)
+
 ### HIS
 It is a comprehensive, integrated information system designed to manage various aspects of hospital operations, including administrative, financial, and clinical functions. HIS plays a crucial role in improving the overall efficiency, quality of care, and patient safety in healthcare facilities, particularly in hospitals. Here are some key components and functionalities of a Hospital Information System:
 

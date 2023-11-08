@@ -33,6 +33,11 @@ HL7 standards are used in various healthcare scenarios, including:
 
 In summary, HL7 plays a critical role in achieving healthcare interoperability and ensuring that patient data can be shared, accessed, and utilized effectively in the healthcare industry.
 
+### Why Data Standarads Need?
+![](./images/why_data_standards.png)
+![](./images/hl7_need.png)
+![](./images/what_is_interface.png)
+
 ## HL7 Format
 All HL7 messages are divided up into Segments of related information, and these are always separated by a carriage return. Each of these segments are simply a separate line of the message.
 The first Segment in every HL7 Message is always the Message Header, a Segment that conveys the metadata of the message like who sent it and when. The Message header is indicated in the first three letters of the segment as MSH.
